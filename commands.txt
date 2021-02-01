@@ -1,0 +1,8 @@
+mkdir 
+echo 
+cat 
+if 
+else
+cron
+!bin/bash shebang operator
+
